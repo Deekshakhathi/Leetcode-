@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Deekshakhathi/Leetcode-/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Deekshakhathi/Leetcode-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Deekshakhathi/Leetcode-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0238-product-of-array-except-self](https://github.com/Deekshakhathi/Leetcode-/tree/master/0238-product-of-array-except-self) |
 ## Binary Search
 |  |
 | ------- |
@@ -38,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Deekshakhathi/Leetcode-/tree/master/0011-container-with-most-water) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Deekshakhathi/Leetcode-/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
