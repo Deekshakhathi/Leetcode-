@@ -52,11 +52,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/Deekshakhathi/Leetcode-/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Deekshakhathi/Leetcode-/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Deekshakhathi/Leetcode-/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Deekshakhathi/Leetcode-/tree/master/0371-sum-of-two-integers) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/Deekshakhathi/Leetcode-/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Deekshakhathi/Leetcode-/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
